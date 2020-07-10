@@ -70,42 +70,16 @@
       }
     },
     {
-      "UnitZ": 36,
-      "UnitX": 36,
+      "UnitZ": 26,
+      "UnitX": 34,
       "Layer": 0,
       "Item": {
-        "BaseID": 197807,
-        "ReFabric": 0,
-        "ReBody": 0,
-        "Rotation": 3,
-        "Data4": 0,
-        "UniqueID": 1199
-      }
-    },
-    {
-      "UnitZ": 30,
-      "UnitX": 36,
-      "Layer": 0,
-      "Item": {
-        "BaseID": 12885100825,
-        "ReFabric": 0,
-        "ReBody": 3,
-        "Rotation": 3,
-        "Data4": 0,
-        "UniqueID": 2329
-      }
-    },
-    {
-      "UnitZ": 30,
-      "UnitX": 29,
-      "Layer": 0,
-      "Item": {
-        "BaseID": 1116,
+        "BaseID": 1199,
         "ReFabric": 0,
         "ReBody": 0,
         "Rotation": 0,
         "Data4": 0,
-        "UniqueID": 1116
+        "UniqueID": 1199
       }
     },
     {
@@ -135,6 +109,45 @@
       }
     },
     {
+      "UnitZ": 36,
+      "UnitX": 34,
+      "Layer": 0,
+      "Item": {
+        "BaseID": 8590067993,
+        "ReFabric": 0,
+        "ReBody": 2,
+        "Rotation": 2,
+        "Data4": 0,
+        "UniqueID": 2329
+      }
+    },
+    {
+      "UnitZ": 36,
+      "UnitX": 36,
+      "Layer": 0,
+      "Item": {
+        "BaseID": 12885035289,
+        "ReFabric": 0,
+        "ReBody": 3,
+        "Rotation": 2,
+        "Data4": 0,
+        "UniqueID": 2329
+      }
+    },
+    {
+      "UnitZ": 30,
+      "UnitX": 29,
+      "Layer": 0,
+      "Item": {
+        "BaseID": 1116,
+        "ReFabric": 0,
+        "ReBody": 0,
+        "Rotation": 0,
+        "Data4": 0,
+        "UniqueID": 1116
+      }
+    },
+    {
       "UnitZ": 26,
       "UnitX": 26,
       "Layer": 0,
@@ -145,19 +158,6 @@
         "Rotation": 0,
         "Data4": 0,
         "UniqueID": 1631
-      }
-    },
-    {
-      "UnitZ": 32,
-      "UnitX": 36,
-      "Layer": 0,
-      "Item": {
-        "BaseID": 8590133529,
-        "ReFabric": 0,
-        "ReBody": 2,
-        "Rotation": 3,
-        "Data4": 0,
-        "UniqueID": 2329
       }
     }
   ]
