@@ -11,21 +11,21 @@
   },
   "FloorRotate": 0,
   "DIYWorkbench": {
-    "UnitZ": 36,
-    "UnitX": 34,
+    "UnitZ": 30,
+    "UnitX": 36,
     "Layer": 0,
     "Item": {
-      "BaseID": 8590069659,
+      "BaseID": 8590135195,
       "ReFabric": 0,
       "ReBody": 2,
-      "Rotation": 2,
+      "Rotation": 3,
       "Data4": 0,
       "UniqueID": 3995
     }
   },
   "DIYRangeHeight": 4,
   "DIYRangeWidth": 4,
-  "DIYRangeLUZ": 34,
+  "DIYRangeLUZ": 30,
   "DIYRangeLUX": 34,
   "LifePoint": 16.6855469,
   "HobbyPoint": 27.2308273,
@@ -83,19 +83,6 @@
       }
     },
     {
-      "UnitZ": 26,
-      "UnitX": 36,
-      "Layer": 0,
-      "Item": {
-        "BaseID": 8589938589,
-        "ReFabric": 0,
-        "ReBody": 2,
-        "Rotation": 0,
-        "Data4": 0,
-        "UniqueID": 3997
-      }
-    },
-    {
       "UnitZ": 28,
       "UnitX": 32,
       "Layer": 0,
@@ -110,15 +97,15 @@
     },
     {
       "UnitZ": 26,
-      "UnitX": 32,
+      "UnitX": 36,
       "Layer": 0,
       "Item": {
-        "BaseID": 8589938593,
+        "BaseID": 8589938589,
         "ReFabric": 0,
         "ReBody": 2,
         "Rotation": 0,
         "Data4": 0,
-        "UniqueID": 4001
+        "UniqueID": 3997
       }
     },
     {
@@ -174,6 +161,19 @@
       }
     },
     {
+      "UnitZ": 24,
+      "UnitX": 31,
+      "Layer": 2,
+      "Item": {
+        "BaseID": 8589938588,
+        "ReFabric": 0,
+        "ReBody": 2,
+        "Rotation": 0,
+        "Data4": 0,
+        "UniqueID": 3996
+      }
+    },
+    {
       "UnitZ": 30,
       "UnitX": 26,
       "Layer": 0,
@@ -200,16 +200,16 @@
       }
     },
     {
-      "UnitZ": 24,
-      "UnitX": 31,
-      "Layer": 2,
+      "UnitZ": 26,
+      "UnitX": 32,
+      "Layer": 0,
       "Item": {
-        "BaseID": 8589938588,
+        "BaseID": 8589938593,
         "ReFabric": 0,
         "ReBody": 2,
         "Rotation": 0,
         "Data4": 0,
-        "UniqueID": 3996
+        "UniqueID": 4001
       }
     }
   ]

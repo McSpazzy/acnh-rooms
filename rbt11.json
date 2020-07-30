@@ -11,7 +11,7 @@
   },
   "FloorRotate": 0,
   "DIYWorkbench": {
-    "UnitZ": 31,
+    "UnitZ": 32,
     "UnitX": 36,
     "Layer": 0,
     "Item": {
@@ -25,24 +25,11 @@
   },
   "DIYRangeHeight": 4,
   "DIYRangeWidth": 4,
-  "DIYRangeLUZ": 31,
+  "DIYRangeLUZ": 32,
   "DIYRangeLUX": 34,
   "LifePoint": 17.4200878,
   "HobbyPoint": 8.110936,
   "FtrList": [
-    {
-      "UnitZ": 26,
-      "UnitX": 26,
-      "Layer": 0,
-      "Item": {
-        "BaseID": 5790,
-        "ReFabric": 0,
-        "ReBody": 0,
-        "Rotation": 0,
-        "Data4": 0,
-        "UniqueID": 5790
-      }
-    },
     {
       "UnitZ": 36,
       "UnitX": 36,
@@ -52,6 +39,19 @@
         "ReFabric": 0,
         "ReBody": 0,
         "Rotation": 3,
+        "Data4": 0,
+        "UniqueID": 5790
+      }
+    },
+    {
+      "UnitZ": 26,
+      "UnitX": 26,
+      "Layer": 0,
+      "Item": {
+        "BaseID": 5790,
+        "ReFabric": 0,
+        "ReBody": 0,
+        "Rotation": 0,
         "Data4": 0,
         "UniqueID": 5790
       }
@@ -84,6 +84,19 @@
     },
     {
       "UnitZ": 26,
+      "UnitX": 36,
+      "Layer": 0,
+      "Item": {
+        "BaseID": 12885101101,
+        "ReFabric": 0,
+        "ReBody": 3,
+        "Rotation": 3,
+        "Data4": 0,
+        "UniqueID": 2605
+      }
+    },
+    {
+      "UnitZ": 26,
       "UnitX": 28,
       "Layer": 0,
       "Item": {
@@ -106,19 +119,6 @@
         "Rotation": 3,
         "Data4": 0,
         "UniqueID": 1759
-      }
-    },
-    {
-      "UnitZ": 26,
-      "UnitX": 36,
-      "Layer": 0,
-      "Item": {
-        "BaseID": 12885101101,
-        "ReFabric": 0,
-        "ReBody": 3,
-        "Rotation": 3,
-        "Data4": 0,
-        "UniqueID": 2605
       }
     },
     {
@@ -149,6 +149,19 @@
     },
     {
       "UnitZ": 26,
+      "UnitX": 29,
+      "Layer": 6,
+      "Item": {
+        "BaseID": 73002,
+        "ReFabric": 0,
+        "ReBody": 0,
+        "Rotation": 1,
+        "Data4": 0,
+        "UniqueID": 7466
+      }
+    },
+    {
+      "UnitZ": 26,
       "UnitX": 30,
       "Layer": 0,
       "Item": {
@@ -174,32 +187,6 @@
       }
     },
     {
-      "UnitZ": 26,
-      "UnitX": 34,
-      "Layer": 0,
-      "Item": {
-        "BaseID": 12884905326,
-        "ReFabric": 0,
-        "ReBody": 3,
-        "Rotation": 0,
-        "Data4": 0,
-        "UniqueID": 3438
-      }
-    },
-    {
-      "UnitZ": 26,
-      "UnitX": 29,
-      "Layer": 6,
-      "Item": {
-        "BaseID": 73002,
-        "ReFabric": 0,
-        "ReBody": 0,
-        "Rotation": 1,
-        "Data4": 0,
-        "UniqueID": 7466
-      }
-    },
-    {
       "UnitZ": 31,
       "UnitX": 31,
       "Layer": 1,
@@ -210,6 +197,19 @@
         "Rotation": 0,
         "Data4": 0,
         "UniqueID": 7599
+      }
+    },
+    {
+      "UnitZ": 26,
+      "UnitX": 34,
+      "Layer": 0,
+      "Item": {
+        "BaseID": 12884905326,
+        "ReFabric": 0,
+        "ReBody": 3,
+        "Rotation": 0,
+        "Data4": 0,
+        "UniqueID": 3438
       }
     },
     {
